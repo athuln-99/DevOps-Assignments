@@ -1,7 +1,7 @@
 name: Builb Test and push
 on: [push]
 env:
-  IMAGE_NAME: docker101tutorial
+  IMAGE_NAME: student_service
   REPO_NAME: athuln99
 
 
