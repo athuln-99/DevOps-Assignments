@@ -2,7 +2,7 @@
 
 Simple Inventory API
 - API version: 1.0.0
-  - Build date: 2023-02-09T14:20:12.324757200+01:00[Europe/Berlin]
+  - Build date: 2023-02-09T15:18:15.500685300+01:00[Europe/Berlin]
 
 This is a simple API
 
